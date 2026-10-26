@@ -1,0 +1,6 @@
+{
+  "name": "Galaktikada bir kun — 1-qism oʻquv loyihasi",
+  "description": "Saʼdullo Quronovning «Galaktikada bir kun» (1-qism) ilmiy-fantastik qissasi boʻyicha toʻliq tahlil, muallif tarjimai holi, 20 tadan 50 tagacha sozlanuvchi interaktiv test va rasm pazzli.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
